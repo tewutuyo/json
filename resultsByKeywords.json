@@ -8,6 +8,7 @@
         "title": "木北造型",
         "address": "崇文门新世界店",
         "subTitle": "木北造型（崇文门新世界店）",
+        "rentNum": 12,
         "price_info": {
           "cur_price": 398,
           "old_price": 420,
@@ -19,6 +20,7 @@
         "title": "COSTA COFFEE（东方新天地店）",
         "address": "东方新天地",
         "subTitle": "玫瑰黑巧茶拿铁1份",
+        "rentNum": 10,
         "price_info": {
           "cur_price": 285,
           "old_price": 341,
@@ -30,6 +32,7 @@
         "title": "祈年八号中餐厅",
         "address": "崇文门新世界",
         "subTitle": "单人点心自助午餐",
+        "rentNum": 0,
         "price_info": {
           "cur_price": 645,
           "old_price": 874,
@@ -43,6 +46,7 @@
         "title": "COSTA COFFEE（东方新天地店）",
         "address": "东方新天地",
         "subTitle": "玫瑰黑巧茶拿铁1份",
+        "rentNum": 22,
         "price_info": {
           "cur_price": 398,
           "old_price": 420,
@@ -54,6 +58,7 @@
         "title": "祈年八号中餐厅",
         "address": "崇文门新世界",
         "subTitle": "单人点心自助午餐",
+        "rentNum": 14,
         "price_info": {
           "cur_price": 645,
           "old_price": 874,
@@ -67,6 +72,7 @@
         "title": "木北造型",
         "address": "崇文门新世界店",
         "subTitle": "木北造型（崇文门新世界店）",
+        "rentNum": 12,
         "price_info": {
           "cur_price": 134,
           "old_price": 543,
