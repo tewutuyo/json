@@ -7,7 +7,8 @@
         "pinyin": "beijing",
         "acronym": "bj",
         "rank": "S",
-        "firstChar": "b"
+        "firstChar": "b",
+        "url": "/b"
     },
     {
         "id": 10,
@@ -15,14 +16,16 @@
         "pinyin": "shanghai",
         "acronym": "sh",
         "rank": "S",
-        "firstChar": "s"
+        "firstChar": "s",
+        "url": "/h"
     },{
         "id": 20,
         "name": "广州",
         "pinyin": "guangzhou",
         "acronym": "gz",
         "rank": "S",
-        "firstChar": "g"
+        "firstChar": "g",
+        "url": "/o"
     },
     {
         "id": 30,
@@ -30,6 +33,8 @@
         "pinyin": "shenzheng",
         "acronym": "sz",
         "rank": "S",
-        "firstChar": "s"
+        "firstChar": "s",
+        "url": "/p"
+        
     }]
 }
