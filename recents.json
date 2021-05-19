@@ -7,7 +7,8 @@
         "pinyin": "guangzhou",
         "acronym": "gz",
         "rank": "S",
-        "firstChar": "g"
+        "firstChar": "g",
+        "url": "/gg"
     },
     {
         "id": 30,
@@ -15,6 +16,7 @@
         "pinyin": "shenzheng",
         "acronym": "sz",
         "rank": "S",
-        "firstChar": "s"
+        "firstChar": "s",
+        "url": "/hh"
     }]
 }
